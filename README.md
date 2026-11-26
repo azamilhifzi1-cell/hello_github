@@ -1,4 +1,4 @@
-# hello_github
+# hello-github
 Repository pertama  saya
 ## Tentang Saya
 - Nama : Alfan Alfaizin
